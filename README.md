@@ -1,2 +1,4 @@
 # odin-recipes
-odin-foundation-project1
+
+## Course: Foundation
+## Project: Recepies (1st Project)
